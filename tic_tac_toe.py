@@ -1,6 +1,6 @@
 board = [['1', '2', '3'], ['4', '5', '6'], ['7', '8', '9']]
 X = 'X'
-O = 'O'
+O = 'V
 
 def displayBoard():
     print(f" {board[0][0]} | {board[0][1]} | {board[0][2]}")
